@@ -3,8 +3,18 @@ using namespace std;
 
 int sumStone(int sts)
 {
+    int pounds = 14 * sts;
+    return pounds ;
+}
+
+/*
+
+int sumStone(int sts)
+{
     return 14 * sts ;
 }
+
+*/
 
 int main()
 {
